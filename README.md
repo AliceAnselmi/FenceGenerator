@@ -1,2 +1,2 @@
-# FenceGenerator
+# Procedural Maya Fence Generator
  
